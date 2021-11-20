@@ -527,11 +527,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#222222</string>
+				<string>#FDF6E3</string>
 				<key>foreground</key>
-				<string>#ffffff</string>
-				<key>fontStyle</key>
-				<string>bold</string>
+				<string>#000000</string>
+				<!-- <key>fontStyle</key>
+				<string>bold</string> -->
 			</dict>
 		</dict>
 		<dict>
